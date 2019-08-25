@@ -20,3 +20,6 @@ This repo was created to divide the currency into thousands of slices and to add
 > **Text imput with maximum amount image**  
 ![text input with maximum amount image](max-size-image.png)
 
+
+
+You can demonstrate with this link : [currency-view DEMO](https://jsfiddle.net/emreyildirim/rgvd9en8/)
